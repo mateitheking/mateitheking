@@ -1,16 +1,34 @@
-## Hi there 👋
+# Ami
 
-<!--
-**mateitheking/mateitheking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student from Kazakhstan 🇰🇿 | Tech Enthusiast | Gamedev Learner
 
-Here are some ideas to get you started:
+## lg
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ EN🇬🇧 | RU🇷🇺 | KZ🇰🇿 | IT🇮🇹 | CN 🇨🇳 |
+## In
+
+- Web Dev
+- Game Dev
+- Hardware & Tech
+- ML engineer
+- Architecture
+- Design
+
+## Lr
+
+Right now, I’m focused on:
+
+- improving my skills in **Python**
+- building games on **Unity**
+- Machine learning
+
+## Kn
+
+- **Python**
+- **C++**
+- **C#**
+  
+- **Unity**
+- **Web(HTML+CSS+JavaS)**
+
+---
