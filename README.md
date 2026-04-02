@@ -1,6 +1,6 @@
 # Ami
 
-Student from Kazakhstan 🇰🇿 | Tech Enthusiast | Gamedev Learner
+Student from Kazakhstan 🇰🇿 | Tech Enthu
 
 ## lg
 
