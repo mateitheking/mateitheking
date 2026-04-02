@@ -4,7 +4,7 @@ Student from Kazakhstan 🇰🇿 | Tech Enthusiast | Gamedev Learner
 
 ## lg
 
- EN🇬🇧 | RU🇷🇺 | KZ🇰🇿 | IT🇮🇹 | CN 🇨🇳 |
+ EN🇬🇧 | RU🇷🇺 | KZ🇰🇿 | IT🇮🇹 | CN🇨🇳 |
 ## In
 
 - Web Dev
