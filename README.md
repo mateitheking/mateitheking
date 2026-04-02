@@ -16,8 +16,6 @@ Student from Kazakhstan 🇰🇿 | Tech Enthusiast | Gamedev Learner
 
 ## Lr
 
-Right now, I’m focused on:
-
 - improving my skills in **Python**
 - building games on **Unity**
 - Machine learning
